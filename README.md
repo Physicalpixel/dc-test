@@ -1,3 +1,3 @@
 # dc-test
 
-[Network Graph 3D](https://physicalpixel.github.io/dc-test/test.html)
+[DC Test Graph](https://physicalpixel.github.io/dc-test/test.html)
