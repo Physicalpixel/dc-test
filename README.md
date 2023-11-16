@@ -1,3 +1,3 @@
 # dc-test
 
-[DC Test Graph](https://physicalpixel.github.io/dc-test/test.html)
+[DC Test Graph](https://physicalpixel.github.io/dc.js/web-src/examples/replacing-data.html)
